@@ -1,3 +1,4 @@
 # Registration-role-drupal-8
 
-Working version of drupal 8 Registration role module
+# Module is released in drupal.org, get the updated recent code from https://www.drupal.org/project/registration_role
+
